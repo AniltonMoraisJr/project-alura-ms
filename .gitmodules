@@ -1,0 +1,12 @@
+[submodule "alura-gateway"]
+	path = alura-gateway
+	url = https://github.com/AniltonMoraisJr/alura-gateway
+[submodule "alura-eureka-server"]
+	path = alura-eureka-server
+	url = https://github.com/AniltonMoraisJr/alura-eureka-server
+[submodule "alura-pedidos-ms"]
+	path = alura-pedidos-ms
+	url = https://github.com/AniltonMoraisJr/alura-pedidos-ms
+[submodule "alura-pagamentos-ms"]
+	path = alura-pagamentos-ms
+	url = https://github.com/AniltonMoraisJr/alura-pagamentos-ms
